@@ -1,0 +1,37 @@
+# Ollama Usage Prompts
+
+# Capability Check
+What are your main capabilities and limitations for startup planning and research?
+
+# System Role Setup
+You are an expert startup advisor. Provide a 3-step go-to-market plan for a SaaS productivity app.
+
+# Brainstorming
+List 10 low-cost user acquisition ideas for an early-stage B2B SaaS product.
+
+# Prioritization / Roadmap
+Given these features: Real-time sync, Integrations, Offline mode — suggest a 3-month prioritized roadmap with milestones and success metrics.
+
+# Market Summary
+Summarize the competitors, target segments, and pricing models for remote collaboration tools in 5 bullet points.
+
+# Technical Design
+Sketch a minimal FastAPI + Redis architecture for storing user conversations. Include sample endpoints.
+
+# Debugging / Explain Code
+Explain what's wrong with the following Python function and provide a corrected version (brief):
+
+# Data Analysis
+I have monthly MAU: [100, 150, 210, 320]. What's the month-over-month growth rate and next-month projection (linear and exponential)?
+
+# Finance / Unit Economics
+Show a simple LTV:CAC calculation given ARPU=25, churn=5% monthly, CAC=150.
+
+# Roleplay
+Act as an early-stage VC and give 5 concerns you'd raise about this pitch.
+
+# Prompt Engineering Test
+Give the same 2-paragraph product description at temperature=0.2 and temperature=0.9.
+
+# Clarifying Questions Behavior
+If you need missing info to answer fully, ask up to 3 specific clarifying questions before answering.
