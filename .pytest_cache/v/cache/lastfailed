@@ -1,0 +1,5 @@
+{
+  "tests/test_agents.py": true,
+  "tests/test_memory.py": true,
+  "tests/test_workflow.py": true
+}

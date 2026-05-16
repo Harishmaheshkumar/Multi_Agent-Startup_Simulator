@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi-Agent Startup Simulator
 
 A sophisticated simulation platform that models the dynamics of a startup ecosystem using multiple AI agents. Each agent represents a key role in a startup (CEO, Engineer, Investor, Legal, Marketer, Product Manager) and collaborates to simulate realistic startup scenarios.
@@ -67,3 +68,6 @@ Run tests with:
 ```bash
 python -m pytest tests/
 ```
+=======
+# Multi_Agent-Startup_Simulator
+>>>>>>> 0d2745072dabefff80db36a743ab3a648fe335e4
